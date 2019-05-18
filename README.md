@@ -14,5 +14,10 @@ control + k             -   Clear the line that appears after the cursor
 command + k             -   clears the console. Same as clear in console
 command + t             -   New tab in terminal
 
+command + d             -   Split and add new window vertically
+command + shift + d     -   Split and add new window horizontally
+command + option +arrow keys - Navigate among the windows
+
+
 ```
 Theme - https://github.com/effkay/iTerm-argonaut
