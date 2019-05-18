@@ -15,3 +15,4 @@ command + k             -   clears the console. Same as clear in console
 command + t             -   New tab in terminal
 
 ```
+Theme - https://github.com/effkay/iTerm-argonaut
