@@ -17,6 +17,7 @@ command + t             -   New tab in terminal
 command + d             -   Split and add new window vertically
 command + shift + d     -   Split and add new window horizontally
 command + option +arrow keys - Navigate among the windows
+command + shift + return - Maximise/minimise a window to the whole window screen
 
 
 ```
