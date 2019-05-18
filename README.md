@@ -11,6 +11,8 @@ control + a             -   Move the cursor to the start of the command line
 control + e             -   Move the cursor to the end of the command line
 control + u             -   Clears the entirety of the line 
 control + k             -   Clear the line that appears after the cursor
+command + k             -   clears the console. Same as clear in console
+command + t             -   New tab in terminal
 
 
 ```
