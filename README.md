@@ -21,6 +21,12 @@ command + shift + return - Maximise/minimise a window to the whole window screen
 
 
 ```
-Theme - https://github.com/effkay/iTerm-argonaut
+Iterm2 Custom theme - edited from theme (argonaut)[https://github.com/effkay/iTerm-argonaut]
 
+## zshrc 
+
+After editing .zshrc file, remember to use the following command.
+
+```
 source ~/.zshrc
+```
