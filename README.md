@@ -4,7 +4,7 @@
 
 I primarily use Powerlevel10k - https://gist.github.com/kevin-smets/8568070#powerlevel9k--powerlevel10k
 
-### Install
+## Install
 
 1. Install iterm2 - https://iterm2.com/
 2. Install oh-my-zsh - https://github.com/robbyrussell/oh-my-zsh
@@ -12,9 +12,10 @@ I primarily use Powerlevel10k - https://gist.github.com/kevin-smets/8568070#powe
 4. Install Font - https://gist.github.com/kevin-smets/8568070#install-a-patched-font
 5. Auto-suggestions - https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh
 6. Syntax highlighting - https://gist.github.com/kevin-smets/8568070#syntax-highlighting
-7. Import the keys config and profile config
+7. Import iterm2 > Preferences > Profiles > 'Other Actions' > Import JSON Profiles - anooprav7_iterm2_profile.json
+8. Import iterm2 > Preferences > Keys > Import - anooprav7_iterm2_keys.itermkeymap
 
-### Preference Changes
+## Preference Changes
 
 1. Fullscreen usage with shortcut keys for fast switching - [Article Point 1](https://medium.com/@jessesrsmith/five-tips-for-iterm-91db83cf4d4e)
 2. Appearance > Tabs > Strech tabs to fill bar (de-select)
@@ -22,7 +23,6 @@ I primarily use Powerlevel10k - https://gist.github.com/kevin-smets/8568070#powe
 ### Shortcut Keys
 
 ```
-
 control + tab           -  Moves through each of the tabs going to the left (like chrome)
 control + shift + tab   -  Moves through each of the tabs going to the right (like chrome)
 
@@ -40,8 +40,6 @@ command + d             -   Split and add new window vertically
 command + shift + d     -   Split and add new window horizontally
 command + option +arrow keys - Navigate among the windows
 command + shift + return - Maximise/minimise a window to the whole window screen
-
-
 ```
 
 The Iterm2 theme i made is mostly taken from the argonaut Theme - (argonaut)[https://github.com/effkay/iTerm-argonaut]
