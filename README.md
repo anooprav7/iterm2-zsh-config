@@ -6,19 +6,26 @@ I primarily use Powerlevel10k - https://gist.github.com/kevin-smets/8568070#powe
 
 ### Install
 
-1. oh-my-zsh - https://github.com/robbyrussell/oh-my-zsh
-2. Install Font - https://gist.github.com/kevin-smets/8568070#install-a-patched-font
-2. Auto-suggestions - https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh
-3. Syntax highlighting - https://gist.github.com/kevin-smets/8568070#syntax-highlighting
-4. Import the keys config and profile config
+1. Install iterm2 - https://iterm2.com/
+2. Install oh-my-zsh - https://github.com/robbyrussell/oh-my-zsh
+3. Install Powerlevel10k - https://gist.github.com/kevin-smets/8568070#powerlevel9k--powerlevel10k
+4. Install Font - https://gist.github.com/kevin-smets/8568070#install-a-patched-font
+5. Auto-suggestions - https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh
+6. Syntax highlighting - https://gist.github.com/kevin-smets/8568070#syntax-highlighting
+7. Import the keys config and profile config
 
 ### Preference Changes
 
 1. Fullscreen usage with shortcut keys for fast switching - [Article Point 1](https://medium.com/@jessesrsmith/five-tips-for-iterm-91db83cf4d4e)
+2. Appearance > Tabs > Strech tabs to fill bar (de-select)
 
 ### Shortcut Keys
 
 ```
+
+control + tab           -  Moves through each of the tabs going to the left (like chrome)
+control + shift + tab   -  Moves through each of the tabs going to the right (like chrome)
+
 option + arrow <-/->    -   Move the cursor between separate words in a command line.
                             Combine with delete instead to remove words to the left
 command + arrow <-/->   -   Switch between tabs
