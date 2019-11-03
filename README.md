@@ -14,11 +14,13 @@ I primarily use Powerlevel10k - https://gist.github.com/kevin-smets/8568070#powe
 6. Syntax highlighting - https://gist.github.com/kevin-smets/8568070#syntax-highlighting
 7. Import iterm2 > Preferences > Profiles > 'Other Actions' > Import JSON Profiles - anooprav7_iterm2_profile.json
 8. Import iterm2 > Preferences > Keys > Import - anooprav7_iterm2_keys.itermkeymap
+9. Optional - Open your .zshrc config and copy the config from the one in this repo. Instructions to open zshrc config at the bottom.
 
 ## Preference Changes
 
 1. Fullscreen usage with shortcut keys for fast switching - [Article Point 1](https://medium.com/@jessesrsmith/five-tips-for-iterm-91db83cf4d4e)
 2. Appearance > Tabs > Strech tabs to fill bar (de-select)
+3. By default, powerlevel10k provides a lot of info in the terminal. I filter them in the .zshrc config.
 
 ### Shortcut Keys
 
