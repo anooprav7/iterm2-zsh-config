@@ -108,6 +108,9 @@ alias gpl='git pull '
 alias gps='git push '
 alias glog='git log --pretty=format:"%C(auto,blue)%>(12,trunc)%ad %C(auto,green)%<(15,trunc)%aN%C(auto,reset)%s%C(auto,red)% gD% D" --graph'
 
+alias ..='cd ..'
+alias ...='cd ../..'
+
 export ANDROID_HOME=$HOME/Library/Android/sdk
 export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/tools/bin
